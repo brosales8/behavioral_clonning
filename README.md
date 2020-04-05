@@ -1,7 +1,7 @@
 # Behavioral Cloning
 ### Udacity - Self-Driving Car NanoDegree
 
-**Author:** Bryan Rosales
+**Author:** Bryan Rosales<br>
 **Date:** July 30th, 2017
 
 
